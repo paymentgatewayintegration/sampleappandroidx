@@ -2,14 +2,13 @@ package com.test.pg.secure.sampleapp;
 
 public class SampleAppConstants {
     //API_KEY is given by the Payment Gateway. Please Copy Paste Here.
-    //public static final String PG_API_KEY = "e5eaefc3-c66f-4f11-8963-9ec407771492";
-    public static final String PG_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public static final String PG_API_KEY = "XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXXXX";
 
     //URL to Accept Payment Response Afdashboardter Payment. This needs to be done at the client's web server.
-    public static final String PG_RETURN_URL = "https://ecaas.traknpay.in/response_page_normal.php";
+    public static final String PG_RETURN_URL = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     //Enter the Mode of Payment Here . Allowed Values are "LIVE" or "TEST".
-    public static final String PG_MODE = "LIVE";
+    public static final String PG_MODE = "TEST";
 
     //PG_CURRENCY is given by the Payment Gateway. Only "INR" Allowed.
     public static final String PG_CURRENCY = "INR";
@@ -18,20 +17,20 @@ public class SampleAppConstants {
     public static final String PG_COUNTRY = "IND";
 
     public static final String PG_AMOUNT = "2";
-    public static final String PG_EMAIL = "fdhaskjdfh@gmail.com";
-    public static final String PG_NAME = "Manasa";
-    public static final String PG_PHONE = "9892102020";
+    public static final String PG_EMAIL = "XXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public static final String PG_NAME = "XXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public static final String PG_PHONE = "9876543210";
     public static       String PG_ORDER_ID = "";
-    public static final String PG_DESCRIPTION = "Transfer";
-    public static final String PG_CITY = "Mum";
+    public static final String PG_DESCRIPTION = "XXXXXXXXXXXXXX";
+    public static final String PG_CITY = "XXXXXXXXXXXXXX";
     public static final String PG_STATE = "Maharashtra";
-    public static final String PG_ADD_1 = "dsfg";
+    public static final String PG_ADD_1 = "XXXXXXXXXXXXXX";
     public static final String PG_ADD_2 = "Mumbai";
     public static final String PG_ZIPCODE = "401107";
-    public static final String PG_UDF1 = "MMU";
-    public static final String PG_UDF2 = "MMU/B3/020";
-    public static final String PG_UDF3 = "Millionaire Mind Unlimited - May20 Batch 3";
-    public static final String PG_UDF4 = "9:00 AM- 1:00 PM";
-    public static final String PG_UDF5 = "28 May  to 31 May 2020";
+    public static final String PG_UDF1 = "";
+    public static final String PG_UDF2 = "";
+    public static final String PG_UDF3 = "";
+    public static final String PG_UDF4 = "";
+    public static final String PG_UDF5 = "";
 
 }
