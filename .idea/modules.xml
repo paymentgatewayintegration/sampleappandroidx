@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="sampleappandroidx/app" />
+      <module fileurl="file://$PROJECT_DIR$/pgsdkv5ax/pgsdkv5ax.iml" filepath="$PROJECT_DIR$/pgsdkv5ax/pgsdkv5ax.iml" group="sampleappandroidx/pgsdkv5ax" />
+      <module fileurl="file://$PROJECT_DIR$/sampleappandroidx.iml" filepath="$PROJECT_DIR$/sampleappandroidx.iml" group="sampleappandroidx" />
+    </modules>
+  </component>
+</project>

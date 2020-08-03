@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:pgsdkv5ax:unspecified@jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
