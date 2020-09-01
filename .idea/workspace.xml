@@ -7,27 +7,189 @@
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab9f2482-b548-400e-9fdc-2fc90b30ec83" name="Default Changelist" comment="">
+    <list default="true" id="8527fec2-e2eb-4d02-ba49-861a2ded87be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/sampleappandroidx.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0520afebc0ea6c8ca2a788ed9de25ab0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0520afebc0ea6c8ca2a788ed9de25ab0/com.test.pg.secure.pgsdkv4-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0642b150f2b1021f488611fca56670e9.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-anydpi-v21_ic_launcher_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-hdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-ldpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-mdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-v24_ic_launcher_foreground.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-xhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-xxhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/drawable-xxxhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/layout_activity_payment_gateway_payment.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-hdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-hdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-mdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-mdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-xhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-xhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-xxhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-xxhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-xxxhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/1520ca3f7f2f1395a0058532b5e018f9/com.test.pg.secure.pgsdkv4/mipmap-xxxhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3614c254ad4f8ec6f92c362400fc21c2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3614c254ad4f8ec6f92c362400fc21c2/jetified-pgsdkv5ax.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jars/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/arm64-v8a/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/armeabi-v7a/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86_64/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-anydpi-v21/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-hdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-ldpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-mdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-xhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-xxhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-xxxhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/layout/activity_payment_gateway_payment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-hdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-hdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-mdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-mdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/4fadc01975a0e5b8de0b8e6bef09ef61.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/jars/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/jni/arm64-v8a/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/jni/armeabi-v7a/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/jni/x86/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/jni/x86_64/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-anydpi-v21/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-hdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-ldpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-mdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-xhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-xxhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/drawable-xxxhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/layout/activity_payment_gateway_payment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-hdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-hdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-mdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-mdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-xhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-xhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-xxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-xxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-xxxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/mipmap-xxxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/50837b79606eb5047f9aed9fedeb780c/jetified-pgsdkv5ax/res/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5842bde8c5fb811861d58daeaa84fcd0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5842bde8c5fb811861d58daeaa84fcd0/com.test.pg.secure.pgsdkv4-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5b376fdf6da68e4e977aa90933f9c930.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5b376fdf6da68e4e977aa90933f9c930/jetified-pgsdkv5ax-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5cdca1c67086fe11906b69fbd41dbb1a.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5cdca1c67086fe11906b69fbd41dbb1a/jetified-pgsdkv5ax-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/6558c2670869ceafbb75675efe018b91.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/7402047d609ac604f1adda377aee4dae.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/7402047d609ac604f1adda377aee4dae/jetified-pgsdkv5ax-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/83308b8bfbe92eb7ef2b792d73692e3f.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/8646310952a80a4d3804777072d694e8.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/8646310952a80a4d3804777072d694e8/jetified-pgsdkv5ax-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/891c1c5743621a72af2c0ae65ca79588.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/90d19a05bcb9af513f4888cfca822d30.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/90d19a05bcb9af513f4888cfca822d30/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/914fdda8aaa17c2be688db786aae73da.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/9e588ae37c5cda9cefe4027e6988b69d.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/a0d0818093541ff24cd55c43a9440784.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/a52734867fc47610ae8aaacca62a6c64.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/a5cd2366ec16312b314c947e18066cdb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/a5cd2366ec16312b314c947e18066cdb/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/a6e2da186f429adaec9e27f418e47c13.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-anydpi-v21_ic_launcher_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-hdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-ldpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-mdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-v24_ic_launcher_foreground.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-xhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-xxhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-xxxhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/layout_activity_payment_gateway_payment.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-hdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-hdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-mdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-mdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxxhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxxhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/b174e33fea6f6ff105df9ada597fb9c4.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/b174e33fea6f6ff105df9ada597fb9c4/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/baabe68743336051bf4936e3e227a7c8.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/baabe68743336051bf4936e3e227a7c8/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/c322a3a0e70a3feb5529102b15a38273.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/c412df4bbe54ee09a3b22f89ecfbcc01.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/c412df4bbe54ee09a3b22f89ecfbcc01/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/d26ad5f5582b85b332e55551d4ae775c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/d4d608b7c27b018fc82c084f3a59fd9a.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/d4d608b7c27b018fc82c084f3a59fd9a/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/da0aea0ea94ce2352bf71c03ef551a9c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/e08efe3b89297d88c098d2c8000aef82.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/e8632a6078827589cc421c763e475619.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/efa7da1d70bf4cdcb3e4f5313758b68b.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/efa7da1d70bf4cdcb3e4f5313758b68b/jetified-pgsdkv5ax.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/f2d7e1d9f04e0369b9216b68900af5ae.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/pgsdkv5ax.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/pgsdkv5ax/pgsdkv5ax.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleappandroidx.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="df71b918" />
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_21" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -41,7 +203,7 @@
     </system>
   </component>
   <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="C:\Users\Abhinav\Android Key Store Imp\my-release-key.keystore" />
+    <option name="KEY_STORE_PATH" value="C:\Users\Abhinav\New one\new.jks" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
@@ -49,8 +211,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1c7Q5D1vSl4JobmY1QFbEwCjDQe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1gHQszXqIqlT359JtzHlaY7XhwX" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,30 +219,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ApkExportedModule" value="app" />
+    <property name="BundleExportedModule" value="app" />
     <property name="ExportApk.ApkPath" value="D:\Development\Android\sampleappandroidx\app" />
-    <property name="ExportApk.BuildVariants" value="debug" />
+    <property name="ExportApk.BuildVariants" value="release" />
     <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pgsdkv5ax.aar" />
+    <property name="last_opened_file_path" value="$USER_HOME$/New one/new.jks" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="PsdUISettings">
-    <option name="MODULES_LIST_MINIMIZE" value="true" />
-    <option name="MODULE_TAB" value="Signing Configs" />
-    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
-    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="VM_PARAMETERS" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -186,51 +348,75 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab9f2482-b548-400e-9fdc-2fc90b30ec83" name="Default Changelist" comment="" />
-      <created>1589876966432</created>
+      <changelist id="8527fec2-e2eb-4d02-ba49-861a2ded87be" name="Default Changelist" comment="" />
+      <created>1597769249132</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589876966432</updated>
+      <updated>1597769249132</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="141" key="FileChooserDialogImpl" timestamp="1595585221394">
+    <state x="255" y="128" key="#PSD" timestamp="1598947431093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="128" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1598947431093" />
+    <state x="287" y="145" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1597839041365" />
+    <state x="402" y="9" key="#app" timestamp="1598121334198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="9" key="#app/0.0.1366.728@0.0.1366.728" timestamp="1598121334198" />
+    <state x="350" y="168" key="AndroidCreateResourceFileDialog" timestamp="1597839045803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="550" y="141" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595585221394" />
-    <state width="1491" height="129" key="GridCell.Tab.0.bottom" timestamp="1594882570185">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="350" y="168" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1597839045803" />
+    <state x="489" y="148" key="FileChooserDialogImpl" timestamp="1598948145755">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1491" height="129" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594882570185" />
-    <state width="1491" height="129" key="GridCell.Tab.0.center" timestamp="1594882570185">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="489" y="148" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598948145755" />
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597839095216" />
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1598150032235">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1491" height="129" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594882570185" />
-    <state width="1491" height="129" key="GridCell.Tab.0.left" timestamp="1594882570184">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598150032235" />
+    <state width="1231" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597838998129" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1598150032235">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1491" height="129" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594882570184" />
-    <state width="1491" height="129" key="GridCell.Tab.0.right" timestamp="1594882570185">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598150032235" />
+    <state width="1231" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597838998129" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1598150032234">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1491" height="129" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594882570185" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596469717304">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598150032234" />
+    <state width="1231" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597838998129" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1598150032235">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596469717304" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598150032235" />
+    <state width="1231" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597838998129" />
+    <state x="84" y="83" width="1200" height="563" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598117575140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="84" y="83" width="1200" height="563" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1598117575140" />
+    <state x="94" y="94" width="1349" height="637" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1597817718793" />
+    <state x="84" y="83" width="1200" height="563" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597993132663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="84" y="83" width="1200" height="563" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1597993132663" />
+    <state x="94" y="94" width="1349" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1597820523072" />
+    <state x="72" y="27" key="com.intellij.ide.util.TipDialog" timestamp="1598947003426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="72" y="27" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598947003426" />
+    <state x="81" y="31" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597818084671" />
+    <state x="444" y="208" key="edit.logcat.filter.dialog.dimensions" timestamp="1597942662441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="208" key="edit.logcat.filter.dialog.dimensions/0.0.1366.728@0.0.1366.728" timestamp="1597942662441" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1597933094040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1597933094040" />
   </component>
 </project>

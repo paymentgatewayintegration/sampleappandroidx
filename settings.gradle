@@ -1,1 +1,3 @@
-include ':app', ':pgsdkv5ax'
+include ':pgsdkv5ax'
+include ':pgsdkv5ax'
+include ':app'

@@ -2,27 +2,30 @@ package com.test.pg.secure.sampleapp;
 
 import android.app.Activity;
 import android.content.Intent;
-import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-import com.test.pg.secure.pgsdkv4.PaymentParams;
-import com.test.pg.secure.pgsdkv4.PaymentGatewayPaymentInitializer;
+
 import com.test.pg.secure.pgsdkv4.PGConstants;
+import com.test.pg.secure.pgsdkv4.PaymentGatewayPaymentInitializer;
+import com.test.pg.secure.pgsdkv4.PaymentParams;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.Random;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     ProgressBar pb;
     TextView transactionIdView;
     TextView transactionStatusView;
-
+    String GOOGLE_PAY_PACKAGE_NAME = "com.google.android.apps.nbu.paisa.user";
+    int GOOGLE_PAY_REQUEST_CODE = 123;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Random rnd = new Random();
                 int n = 100000 + rnd.nextInt(900000);
-                SampleAppConstants.PG_ORDER_ID=Integer.toString(n);
+                SampleAppConstants.PG_ORDER_ID="Test"+Integer.toString(n);
 
                 PaymentParams pgPaymentParams = new PaymentParams();
                 pgPaymentParams.setAPiKey(SampleAppConstants.PG_API_KEY);
@@ -87,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-
+        super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == PGConstants.REQUEST_CODE) {
             if(resultCode == Activity.RESULT_OK){
                 try{
