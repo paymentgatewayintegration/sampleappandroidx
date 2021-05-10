@@ -17,40 +17,19 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/appcompat/group-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/constraintlayout/group-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/multidex/group-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/espresso/group-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/ext/group-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0520afebc0ea6c8ca2a788ed9de25ab0/com.test.pg.secure.pgsdkv4-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0520afebc0ea6c8ca2a788ed9de25ab0/com.test.pg.secure.pgsdkv4-r.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/13ac77b21b9168c527e6557a6c6a3886.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3614c254ad4f8ec6f92c362400fc21c2/jetified-pgsdkv5ax.aar" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3614c254ad4f8ec6f92c362400fc21c2/jetified-pgsdkv5ax.aar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jars/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jars/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/arm64-v8a/libnative-lib.so" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/arm64-v8a/libnative-lib.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/armeabi-v7a/libnative-lib.so" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/armeabi-v7a/libnative-lib.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86/libnative-lib.so" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86/libnative-lib.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86_64/libnative-lib.so" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86_64/libnative-lib.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/58cf257f90743f4083c09693f266e4e4.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/58cf257f90743f4083c09693f266e4e4/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5b376fdf6da68e4e977aa90933f9c930/jetified-pgsdkv5ax-runtime.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5b376fdf6da68e4e977aa90933f9c930/jetified-pgsdkv5ax-runtime.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/6b4d75cefad9bd557a9433e028c75f60.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/6b4d75cefad9bd557a9433e028c75f60/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/8646310952a80a4d3804777072d694e8/jetified-pgsdkv5ax-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/8646310952a80a4d3804777072d694e8/jetified-pgsdkv5ax-api.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/pgsdkv5ax.aar" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/pgsdkv5ax.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,8 +77,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pgsdkv5ax/app/build/outputs/aar/pgsdkv5ax.aar" />
-    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Amex/pgsdkv5ax.aar" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -229,13 +208,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="477" y="252" key="#PSD" timestamp="1615471542759">
+    <state x="477" y="252" key="#PSD" timestamp="1620632987891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="477" y="252" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1615471542759" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1615471607303">
+    <state x="477" y="252" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1620632987891" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1620633006202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615471607303" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620633006202" />
   </component>
 </project>
